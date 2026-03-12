@@ -4,11 +4,11 @@
   "modelPackage": "io.sygna.ivms.model",
   "apiPackage": "io.sygna.ivms.api",
   "artifactVersion": "0.0.5",
-  "scmConnection": "scm:git:https://github.com/CoolBitX-Technology/sygna-bridge-ivms-utils.git",
-  "scmDeveloperConnection": "scm:git:https://github.com/CoolBitX-Technology/sygna-bridge-ivms-utils.git",
-  "scmUrl": "https://github.com/CoolBitX-Technology/sygna-bridge-ivms-utils/tree/master/java",
-  "developerEmail": "frank.chen@coolbitx.com",
-  "developerName": "Frank Chen",
+  "scmConnection": "scm:git:https://github.com/sygnaio/sygna-bridge-ivms-utils.git",
+  "scmDeveloperConnection": "scm:git:https://github.com/sygnaio/sygna-bridge-ivms-utils.git",
+  "scmUrl": "https://github.com/sygnaio/sygna-bridge-ivms-utils/tree/master/java",
+  "developerEmail": "sygna.tech@coolbitx.com",
+  "developerName": "Sygna",
   "licenseName": "The MIT License",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php"
 }

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	ivms101 "github.com/CoolBitX-Technology/sygna-bridge-ivms-utils/golang/src/legacy"
+	ivms101 "github.com/sygnaio/sygna-bridge-ivms-utils/golang/src/legacy"
 )
 
 func main() {
