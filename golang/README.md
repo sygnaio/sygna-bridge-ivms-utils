@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-go get github.com/CoolBitX-Technology/sygna-bridge-ivms-utils/golang/src
+go get github.com/sygnaio/sygna-bridge-ivms-utils/golang/src
 ```
 
 ## Example
@@ -12,7 +12,7 @@ package main
 import (
 	"fmt"
 
-	ivms101 "github.com/CoolBitX-Technology/sygna-bridge-ivms-utils/golang/src"
+	ivms101 "github.com/sygnaio/sygna-bridge-ivms-utils/golang/src"
 )
 
 func main() {

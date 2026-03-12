@@ -1,5 +1,5 @@
 # Sygna Bridge IVMS Util For Javascript
-[<img src="https://img.shields.io/github/package-json/v/CoolBitX-Technology/sygna-bridge-ivms-utils/master/typescript?style=for-the-badge">](https://www.npmjs.com/package/@sygna/bridge-ivms-util)
+[<img src="https://img.shields.io/github/package-json/v/sygnaio/sygna-bridge-ivms-utils/master/typescript?style=for-the-badge">](https://www.npmjs.com/package/@sygna/bridge-ivms-util)
 
 ## Installation
 ```

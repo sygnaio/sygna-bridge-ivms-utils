@@ -2,9 +2,9 @@
   "gemName": "sygna-bridge-ivms-util",
   "gemVersion": "0.0.5",
   "moduleName": "SygnaBridgeIvmsUtil",
-  "gemAuthor": "Frank Chen",
-  "gemAuthorEmail": "frank.chen@coolbitx.com",
-  "gemHomepage": "https://github.com/CoolBitX-Technology/sygna-bridge-ivms-utils/tree/master/ruby",
+  "gemAuthor": "Sygna",
+  "gemAuthorEmail": "sygna.tech@coolbitx.com",
+  "gemHomepage": "https://github.com/sygnaio/sygna-bridge-ivms-utils/tree/master/ruby",
   "gemDescription": "This is a Ruby library for building IVMS data structure.",
   "gemLicense": "MIT"
 }

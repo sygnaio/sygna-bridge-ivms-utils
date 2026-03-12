@@ -15,9 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoolBitX-Technology/sygna-bridge-ivms-utils.git"
+    "url": "git+https://github.com/sygnaio/sygna-bridge-ivms-utils.git"
   },
-  "author": "frank.chen@coolbitx.com",
+  "author": "sygna.tech@coolbitx.com",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.0.0",
