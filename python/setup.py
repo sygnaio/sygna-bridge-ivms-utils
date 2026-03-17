@@ -21,7 +21,7 @@ def get_requirements():
 
 setup(
     name='sygna-bridge-ivms-util',
-    version='0.0.6',
+    version='0.0.7',
     packages=find_packages("src"),
     package_dir={"": "src"},
     install_requires=get_requirements(),
